@@ -16,16 +16,11 @@
 
 <br>
 
-![Stars](https://img.shields.io/github/stars/deveshpunjabi/JavaScript-Roadmap?style=social&logo=github)
-![Forks](https://img.shields.io/github/forks/deveshpunjabi/JavaScript-Roadmap?style=social&logo=github)
-![Issues](https://img.shields.io/github/issues/deveshpunjabi/JavaScript-Roadmap?style=social&logo=github)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 
 <h3>🚀 Your Ultimate Guide to JavaScript Mastery</h3>
 <p><i>From fundamentals to full-stack development - everything you need to become a JavaScript expert</i></p>
 
-[🎯 Start Journey](#-interactive-roadmap) • [📚 Resources](#-curated-resources) • [🛠️ Projects](#-hands-on-projects) • [💼 Career](#-career-path) • [🏆 Challenges](#-coding-challenges)
+[🎯 Start Journey](#-interactive-roadmap) • [📚 Resources](#-curated-resources) • [🛠️ Projects](#%EF%B8%8F-hands-on-projects) • [💼 Career](#-career-path) • [🏆 Challenges](#-coding-challenges)
 
 </div>
 
@@ -65,22 +60,6 @@ graph TB
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
-
----
-
-## 📊 Learning Progress Tracker
-
-<div align="center">
-
-| Phase | Duration | Difficulty | Progress |
-|-------|----------|------------|----------|
-| 🎯 **JavaScript Basics** | 4-6 weeks | 🟢 Beginner | ![Progress](https://progress-bar.dev/0/?title=Start%20Here&width=200&color=f7df1e) |
-| ⚡ **Modern ES6+** | 3-4 weeks | 🟡 Intermediate | ![Progress](https://progress-bar.dev/0/?title=Next%20Level&width=200&color=61dafb) |
-| 🎨 **Frontend Frameworks** | 8-10 weeks | 🟠 Advanced | ![Progress](https://progress-bar.dev/0/?title=Framework%20Master&width=200&color=4fc08d) |
-| 🖥️ **Backend Development** | 6-8 weeks | 🔴 Expert | ![Progress](https://progress-bar.dev/0/?title=Full%20Stack&width=200&color=ff6b6b) |
-| 🚀 **Production Ready** | 4-6 weeks | ⚫ Master | ![Progress](https://progress-bar.dev/0/?title=Production&width=200&color=333) |
-
 </div>
 
 ---
@@ -568,19 +547,6 @@ xychart-beta
 
 </div>
 
-### 🌟 Skills Roadmap Matrix
-
-<div align="center">
-
-| Skill Category | Junior | Mid-Level | Senior | Lead |
-|---------------|--------|-----------|---------|------|
-| **JavaScript Core** | ![Progress](https://progress-bar.dev/60/?title=Basic&width=100&color=4CAF50) | ![Progress](https://progress-bar.dev/80/?title=Advanced&width=100&color=2196F3) | ![Progress](https://progress-bar.dev/95/?title=Expert&width=100&color=FF9800) | ![Progress](https://progress-bar.dev/100/?title=Master&width=100&color=F44336) |
-| **Frameworks** | ![Progress](https://progress-bar.dev/40/?title=Learning&width=100&color=4CAF50) | ![Progress](https://progress-bar.dev/75/?title=Proficient&width=100&color=2196F3) | ![Progress](https://progress-bar.dev/90/?title=Expert&width=100&color=FF9800) | ![Progress](https://progress-bar.dev/95/?title=Architect&width=100&color=F44336) |
-| **Backend** | ![Progress](https://progress-bar.dev/20/?title=Basic&width=100&color=4CAF50) | ![Progress](https://progress-bar.dev/60/?title=Good&width=100&color=2196F3) | ![Progress](https://progress-bar.dev/85/?title=Advanced&width=100&color=FF9800) | ![Progress](https://progress-bar.dev/90/?title=Expert&width=100&color=F44336) |
-| **DevOps** | ![Progress](https://progress-bar.dev/10/?title=Aware&width=100&color=4CAF50) | ![Progress](https://progress-bar.dev/40/?title=Basic&width=100&color=2196F3) | ![Progress](https://progress-bar.dev/70/?title=Good&width=100&color=FF9800) | ![Progress](https://progress-bar.dev/85/?title=Advanced&width=100&color=F44336) |
-| **Leadership** | ![Progress](https://progress-bar.dev/5/?title=None&width=100&color=4CAF50) | ![Progress](https://progress-bar.dev/30/?title=Learning&width=100&color=2196F3) | ![Progress](https://progress-bar.dev/60/?title=Good&width=100&color=FF9800) | ![Progress](https://progress-bar.dev/90/?title=Strong&width=100&color=F44336) |
-
-</div>
 
 ---
 
@@ -969,35 +935,15 @@ gh pr create --title "✨ Amazing new feature"
 
 ---
 
-## 📈 Analytics & Tracking
-
-<div align="center">
-
-### 📊 Repository Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deveshpunjabi&show_icons=true&theme=radical)
-
-### 🔥 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=deveshpunjabi&theme=react-dark&hide_border=true)
-
-### 🏆 Achievement Badges
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=deveshpunjabi&theme=darkhub&no-frame=true&margin-w=15)
-
-</div>
-
----
-
 ## 🎯 Quick Navigation
 
 <div align="center">
 
 | Section | Quick Links |
 |---------|-------------|
-| 🎯 **Getting Started** | [Roadmap](#-interactive-roadmap) • [Resources](#-curated-resources) • [Setup](#-development-environment) |
-| 🛠️ **Practice** | [Projects](#-hands-on-projects) • [Challenges](#-coding-challenges) • [Interview Prep](#-interview-preparation) |
-| 💼 **Career** | [Salary Guide](#-career-path) • [Skills Matrix](#-skills-roadmap-matrix) • [Job Hunting](#-modern-design-system) |
+| 🎯 **Getting Started** | [Roadmap](#-interactive-roadmap) • [Resources](#-curated-resources) • [Setup](#%EF%B8%8F-development-environment) |
+| 🛠️ **Practice** | [Projects](#%EF%B8%8F-hands-on-projects) • [Challenges](#-coding-challenges) • [Interview Prep](#-interview-preparation) |
+| 💼 **Career** | [Salary Guide](#-career-path)  • [Job Hunting](#-modern-design-system) |
 | 🤝 **Community** | [Discord](https://discord.gg/javascript) • [Contribute](#-contributing-guidelines) • [Support](#-community--support) |
 
 </div>
